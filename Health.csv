@@ -1,0 +1,501 @@
+Age,Educational Level,Sex,Housing Stability,Water Quality,Air Quality,Access to Primary Care,Disease,Risk Level
+78,Not Applicable,Female,Unstable,Poor,Good,No,Mental illness,High
+80,Primary,Female,Unstable,Poor,Poor,No,Diarrhoea,High
+36,Tertiary,Female,Unstable,Good,Poor,No,Hepatitis A,High
+19,Tertiary,Female,Unstable,Fair,Good,No,Diarrhoea,Medium
+67,Not Applicable,Male,Stable,Good,Fair,No,Diarrhoea,High
+50,Secondary,Female,Unstable,Good,Poor,No,Tuberculosis,High
+36,Secondary,Male,Stable,Good,Poor,Yes,Tuberculosis,High
+65,Not Applicable,Male,Stable,Good,Fair,Yes,Hepatitis A,High
+18,Secondary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+71,Not Applicable,Female,Stable,Fair,Fair,Yes,Typhoid,Medium
+30,Tertiary,Female,Unstable,Poor,Poor,No,Typhoid,High
+59,Primary,Female,Stable,Good,Fair,No,Malaria,Low
+73,Secondary,Female,Unstable,Good,Poor,No,Typhoid,Low
+79,Not Applicable,Female,Stable,Fair,Poor,No,Malaria,Medium
+56,Tertiary,Male,Stable,Poor,Poor,No,Malaria,Medium
+71,Primary,Male,Stable,Fair,Fair,Yes,Hepatitis A,Medium
+49,Tertiary,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+19,Not Applicable,Female,Stable,Fair,Poor,No,Mental illness,Low
+34,Not Applicable,Female,Stable,Poor,Poor,No,Tuberculosis,Medium
+34,Primary,Male,Stable,Fair,Good,No,Typhoid,Low
+69,Secondary,Female,Stable,Good,Good,Yes,Dengue Fever,Medium
+23,Secondary,Female,Stable,Poor,Poor,Yes,Typhoid,Low
+76,Not Applicable,Male,Stable,Poor,Fair,No,Diarrhoea,High
+75,Not Applicable,Female,Stable,Poor,Good,No,Plague,Medium
+43,Tertiary,Female,Stable,Fair,Good,Yes,Dengue Fever,Medium
+37,Secondary,Female,Stable,Fair,Fair,No,Malaria,Medium
+37,Primary,Male,Unstable,Fair,Poor,Yes,Typhoid,Medium
+67,Secondary,Female,Unstable,Good,Good,No,Typhoid,Low
+69,Not Applicable,Male,Unstable,Good,Fair,No,Hepatitis E,Medium
+70,Primary,Female,Stable,Fair,Fair,Yes,Malaria,Medium
+70,Not Applicable,Female,Stable,Poor,Fair,No,Plague,Medium
+31,Secondary,Male,Stable,Poor,Fair,Yes,Typhoid,Low
+49,Not Applicable,Male,Stable,Good,Fair,No,Typhoid,Medium
+70,Tertiary,Female,Unstable,Poor,Good,Yes,No Disease Detected,Low
+26,Secondary,Female,Unstable,Good,Good,No,Malaria,Medium
+37,Not Applicable,Female,Unstable,Fair,Fair,Yes,Mental illness,Low
+66,Tertiary,Male,Stable,Fair,Fair,Yes,Diarrhoea,High
+34,Secondary,Female,Stable,Poor,Poor,No,Dengue Fever,High
+29,Primary,Female,Unstable,Good,Poor,Yes,Dengue Fever,Medium
+66,Secondary,Female,Stable,Fair,Good,No,Dengue Fever,Low
+58,Primary,Female,Stable,Poor,Poor,Yes,Dengue Fever,Medium
+60,Tertiary,Female,Stable,Poor,Good,No,Malaria,Low
+73,Not Applicable,Male,Stable,Poor,Poor,No,Diarrhoea,High
+50,Tertiary,Female,Stable,Poor,Good,Yes,No Disease Detected,Low
+18,Tertiary,Female,Unstable,Good,Poor,Yes,Typhoid,Medium
+22,Primary,Female,Stable,Fair,Fair,No,Hepatitis E,Medium
+78,Tertiary,Female,Unstable,Fair,Poor,No,Plague,High
+21,Not Applicable,Male,Stable,Poor,Good,Yes,Hepatitis E,Medium
+47,Tertiary,Female,Unstable,Fair,Poor,Yes,Mental illness,Medium
+65,Tertiary,Male,Stable,Poor,Good,Yes,No Disease Detected,Low
+20,Primary,Male,Stable,Fair,Good,Yes,No Disease Detected,Low
+31,Tertiary,Female,Unstable,Good,Good,No,Hepatitis A,High
+70,Not Applicable,Female,Unstable,Fair,Fair,Yes,Diarrhoea,Medium
+36,Secondary,Female,Stable,Fair,Good,Yes,Diarrhoea,Medium
+21,Primary,Male,Unstable,Fair,Fair,No,Malaria,Medium
+57,Not Applicable,Male,Unstable,Fair,Poor,Yes,Hepatitis A,Medium
+19,Primary,Male,Unstable,Poor,Poor,Yes,Mental illness,Low
+61,Not Applicable,Male,Stable,Poor,Fair,No,Plague,Low
+38,Primary,Female,Unstable,Poor,Poor,Yes,Plague,High
+47,Not Applicable,Male,Stable,Fair,Fair,No,Malaria,Low
+72,Primary,Male,Unstable,Fair,Fair,No,Tuberculosis,High
+25,Secondary,Female,Unstable,Fair,Good,Yes,Dengue Fever,Medium
+46,Tertiary,Male,Unstable,Fair,Good,Yes,Mental illness,Medium
+29,Primary,Female,Stable,Poor,Fair,No,Hepatitis E,High
+67,Tertiary,Female,Stable,Poor,Good,Yes,Malaria,Medium
+35,Secondary,Male,Unstable,Poor,Poor,Yes,Plague,High
+32,Primary,Female,Stable,Good,Poor,Yes,Malaria,Medium
+56,Secondary,Female,Stable,Fair,Good,No,Hepatitis A,High
+53,Secondary,Female,Stable,Fair,Good,Yes,Tuberculosis,Medium
+32,Tertiary,Male,Unstable,Fair,Good,Yes,No Disease Detected,Low
+48,Secondary,Male,Unstable,Poor,Fair,No,Malaria,High
+58,Primary,Male,Unstable,Poor,Good,Yes,Hepatitis E,Medium
+46,Not Applicable,Female,Stable,Fair,Poor,No,Hepatitis A,High
+47,Not Applicable,Female,Unstable,Poor,Good,Yes,Tuberculosis,High
+34,Secondary,Male,Unstable,Poor,Poor,No,Mental illness,Low
+65,Tertiary,Male,Unstable,Fair,Good,No,Diarrhoea,High
+27,Tertiary,Male,Stable,Good,Good,Yes,No Disease Detected,Low
+32,Secondary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+18,Secondary,Female,Unstable,Poor,Poor,Yes,Mental illness,Low
+47,Not Applicable,Female,Unstable,Good,Good,Yes,Diarrhoea,Medium
+68,Tertiary,Male,Unstable,Good,Fair,Yes,Hepatitis A,High
+33,Primary,Female,Unstable,Good,Poor,Yes,Plague,High
+37,Tertiary,Male,Stable,Poor,Good,No,Dengue Fever,Medium
+68,Primary,Female,Stable,Fair,Poor,No,Dengue Fever,Low
+20,Secondary,Female,Unstable,Good,Good,No,Malaria,Low
+25,Primary,Female,Unstable,Poor,Fair,No,Malaria,High
+75,Primary,Male,Unstable,Fair,Good,No,Typhoid,Low
+64,Primary,Female,Unstable,Good,Poor,Yes,Plague,High
+57,Primary,Female,Unstable,Fair,Fair,Yes,Dengue Fever,Medium
+48,Tertiary,Male,Unstable,Good,Poor,Yes,Diarrhoea,Medium
+78,Secondary,Male,Stable,Good,Poor,No,Diarrhoea,High
+59,Not Applicable,Male,Stable,Fair,Good,Yes,Malaria,Low
+67,Secondary,Male,Unstable,Fair,Good,No,Typhoid,Low
+64,Secondary,Female,Unstable,Poor,Good,Yes,Typhoid,High
+41,Secondary,Female,Unstable,Good,Poor,No,Mental illness,Low
+35,Secondary,Female,Stable,Poor,Good,Yes,Typhoid,Medium
+69,Secondary,Female,Stable,Good,Fair,No,Plague,Medium
+62,Primary,Male,Stable,Fair,Fair,No,Malaria,Low
+50,Primary,Male,Stable,Good,Good,Yes,Malaria,Low
+44,Not Applicable,Female,Stable,Poor,Fair,Yes,Hepatitis A,Medium
+44,Tertiary,Male,Stable,Fair,Good,No,Typhoid,Low
+18,Primary,Female,Unstable,Poor,Good,Yes,Hepatitis E,Medium
+50,Not Applicable,Female,Stable,Poor,Fair,No,Mental illness,Medium
+35,Not Applicable,Female,Unstable,Good,Good,No,Plague,Medium
+54,Secondary,Female,Unstable,Fair,Good,No,Diarrhoea,High
+49,Tertiary,Female,Stable,Good,Poor,Yes,Malaria,Low
+28,Tertiary,Male,Unstable,Good,Fair,Yes,Malaria,Low
+21,Primary,Female,Stable,Fair,Fair,Yes,Plague,Medium
+45,Tertiary,Female,Stable,Good,Fair,No,Mental illness,Medium
+24,Not Applicable,Male,Unstable,Good,Fair,No,Dengue Fever,Low
+33,Tertiary,Female,Unstable,Good,Fair,No,Dengue Fever,Low
+31,Tertiary,Female,Unstable,Good,Poor,No,Mental illness,Low
+52,Tertiary,Male,Stable,Fair,Poor,No,Hepatitis E,Low
+30,Tertiary,Female,Unstable,Poor,Poor,No,Tuberculosis,High
+41,Tertiary,Male,Unstable,Good,Good,Yes,No Disease Detected,Low
+41,Secondary,Male,Stable,Fair,Good,No,Diarrhoea,High
+50,Not Applicable,Female,Stable,Fair,Fair,Yes,Hepatitis E,Medium
+45,Tertiary,Male,Stable,Poor,Fair,No,Hepatitis E,High
+36,Primary,Female,Stable,Poor,Fair,No,Tuberculosis,Medium
+25,Tertiary,Female,Unstable,Fair,Good,Yes,Diarrhoea,High
+27,Not Applicable,Female,Stable,Good,Fair,No,Mental illness,Low
+41,Not Applicable,Female,Stable,Fair,Good,Yes,Tuberculosis,High
+18,Not Applicable,Female,Unstable,Good,Poor,No,Dengue Fever,Medium
+21,Not Applicable,Male,Stable,Poor,Poor,No,Hepatitis A,Medium
+73,Tertiary,Female,Unstable,Fair,Poor,No,Plague,High
+77,Secondary,Female,Stable,Fair,Poor,No,Plague,Low
+27,Not Applicable,Female,Unstable,Poor,Poor,No,Mental illness,Low
+64,Primary,Male,Stable,Fair,Fair,Yes,Dengue Fever,Low
+48,Not Applicable,Male,Unstable,Good,Poor,Yes,Typhoid,Medium
+26,Tertiary,Female,Unstable,Good,Fair,Yes,Dengue Fever,Medium
+39,Primary,Female,Unstable,Fair,Good,Yes,Diarrhoea,Medium
+64,Not Applicable,Male,Stable,Poor,Good,Yes,No Disease Detected,Low
+58,Primary,Male,Stable,Fair,Good,Yes,Hepatitis E,Medium
+69,Primary,Female,Stable,Poor,Poor,No,Tuberculosis,High
+40,Not Applicable,Male,Stable,Fair,Good,No,Diarrhoea,Medium
+55,Tertiary,Female,Stable,Poor,Poor,No,Hepatitis E,High
+79,Tertiary,Male,Stable,Good,Poor,Yes,Hepatitis A,High
+69,Not Applicable,Male,Stable,Good,Poor,Yes,Tuberculosis,High
+76,Not Applicable,Male,Stable,Good,Fair,No,Malaria,Low
+45,Primary,Female,Stable,Fair,Good,Yes,Diarrhoea,High
+39,Primary,Male,Unstable,Good,Good,No,Tuberculosis,Medium
+67,Tertiary,Female,Unstable,Fair,Fair,No,Tuberculosis,High
+78,Tertiary,Female,Stable,Poor,Poor,No,Diarrhoea,Medium
+28,Primary,Female,Unstable,Fair,Good,Yes,Hepatitis A,High
+23,Secondary,Female,Stable,Fair,Fair,No,Mental illness,Low
+48,Secondary,Female,Unstable,Good,Poor,Yes,Hepatitis A,High
+76,Not Applicable,Male,Stable,Poor,Good,No,Tuberculosis,High
+54,Tertiary,Female,Unstable,Fair,Good,Yes,No Disease Detected,Low
+76,Secondary,Female,Stable,Good,Poor,Yes,Tuberculosis,Medium
+61,Not Applicable,Female,Unstable,Fair,Fair,Yes,Malaria,Medium
+29,Tertiary,Male,Stable,Good,Poor,No,Malaria,Low
+29,Not Applicable,Male,Stable,Poor,Fair,No,Malaria,Low
+21,Tertiary,Female,Unstable,Poor,Good,No,Typhoid,High
+19,Secondary,Female,Unstable,Good,Fair,No,Dengue Fever,Medium
+55,Primary,Female,Stable,Fair,Fair,Yes,Tuberculosis,High
+73,Primary,Female,Stable,Poor,Poor,No,Hepatitis A,Medium
+48,Primary,Female,Stable,Fair,Good,No,Tuberculosis,Medium
+60,Secondary,Male,Stable,Fair,Good,Yes,No Disease Detected,Low
+36,Secondary,Female,Stable,Good,Poor,Yes,Malaria,Low
+38,Tertiary,Female,Unstable,Poor,Fair,Yes,Plague,Medium
+63,Primary,Female,Stable,Poor,Poor,No,Diarrhoea,High
+31,Primary,Female,Unstable,Fair,Good,Yes,Tuberculosis,High
+55,Primary,Male,Stable,Poor,Poor,Yes,Diarrhoea,High
+19,Primary,Male,Stable,Poor,Fair,No,Typhoid,Low
+29,Primary,Female,Unstable,Good,Poor,No,Plague,High
+31,Tertiary,Female,Unstable,Fair,Good,Yes,No Disease Detected,Low
+20,Secondary,Male,Unstable,Poor,Good,No,Hepatitis A,High
+26,Tertiary,Female,Stable,Good,Good,Yes,Hepatitis E,Medium
+38,Not Applicable,Female,Stable,Good,Fair,No,Plague,Medium
+47,Tertiary,Male,Stable,Fair,Poor,Yes,Plague,Medium
+70,Tertiary,Male,Stable,Good,Fair,No,Mental illness,High
+18,Primary,Male,Stable,Poor,Fair,Yes,Dengue Fever,Low
+18,Primary,Female,Stable,Good,Poor,Yes,Dengue Fever,Medium
+49,Not Applicable,Male,Unstable,Poor,Good,Yes,Dengue Fever,Medium
+73,Primary,Female,Stable,Poor,Good,Yes,Hepatitis E,Medium
+58,Primary,Male,Unstable,Fair,Poor,No,Plague,High
+51,Tertiary,Male,Unstable,Poor,Good,Yes,No Disease Detected,Low
+68,Not Applicable,Male,Unstable,Good,Poor,No,Dengue Fever,Medium
+63,Secondary,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+77,Secondary,Female,Unstable,Poor,Good,Yes,Diarrhoea,High
+63,Secondary,Female,Stable,Fair,Fair,Yes,Malaria,Medium
+54,Not Applicable,Female,Stable,Fair,Poor,No,Typhoid,Medium
+38,Tertiary,Female,Unstable,Fair,Poor,Yes,Tuberculosis,High
+27,Secondary,Female,Stable,Fair,Poor,Yes,Mental illness,Low
+35,Secondary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+59,Tertiary,Female,Stable,Good,Good,Yes,Hepatitis A,High
+55,Tertiary,Female,Unstable,Fair,Fair,No,Typhoid,Low
+24,Secondary,Female,Stable,Fair,Fair,Yes,Tuberculosis,Medium
+29,Primary,Male,Unstable,Poor,Poor,No,Malaria,High
+75,Tertiary,Female,Unstable,Poor,Good,Yes,Dengue Fever,Medium
+64,Not Applicable,Male,Unstable,Poor,Good,No,Hepatitis A,High
+28,Primary,Male,Unstable,Good,Good,Yes,Hepatitis E,Low
+40,Primary,Female,Unstable,Good,Fair,No,Tuberculosis,High
+58,Not Applicable,Female,Stable,Poor,Good,No,Typhoid,Low
+71,Primary,Male,Unstable,Good,Fair,Yes,Diarrhoea,High
+22,Not Applicable,Male,Unstable,Fair,Good,Yes,Typhoid,Medium
+77,Secondary,Male,Unstable,Good,Poor,Yes,Mental illness,High
+32,Not Applicable,Male,Stable,Poor,Fair,No,Diarrhoea,Medium
+28,Secondary,Male,Unstable,Poor,Fair,Yes,Tuberculosis,High
+70,Tertiary,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+40,Not Applicable,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+78,Primary,Male,Unstable,Good,Fair,No,Malaria,Low
+70,Primary,Male,Stable,Poor,Good,No,Plague,Medium
+69,Not Applicable,Male,Unstable,Poor,Poor,Yes,Malaria,Medium
+64,Not Applicable,Male,Stable,Poor,Fair,No,Dengue Fever,High
+42,Tertiary,Female,Unstable,Fair,Good,No,Typhoid,Low
+57,Tertiary,Male,Unstable,Poor,Fair,No,Schistosomiasis,High
+33,Secondary,Male,Stable,Good,Good,No,Dengue Fever,Low
+79,Secondary,Female,Stable,Fair,Fair,Yes,Plague,Medium
+31,Primary,Male,Stable,Good,Good,Yes,Hepatitis E,Medium
+45,Tertiary,Male,Unstable,Good,Good,No,Plague,Medium
+76,Secondary,Male,Unstable,Fair,Fair,No,Dengue Fever,Low
+57,Secondary,Male,Stable,Good,Good,No,Malaria,Low
+59,Primary,Male,Stable,Poor,Poor,Yes,Malaria,Low
+55,Not Applicable,Female,Unstable,Good,Fair,No,Diarrhoea,High
+26,Secondary,Male,Unstable,Poor,Fair,Yes,Plague,Low
+30,Tertiary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+38,Primary,Male,Unstable,Fair,Fair,No,Hepatitis A,High
+31,Not Applicable,Male,Unstable,Fair,Good,Yes,Typhoid,Medium
+51,Not Applicable,Female,Stable,Poor,Fair,No,Mental illness,Medium
+60,Tertiary,Male,Unstable,Good,Fair,No,Mental illness,Medium
+72,Secondary,Female,Unstable,Fair,Good,No,Typhoid,Low
+79,Tertiary,Female,Stable,Good,Fair,No,Diarrhoea,High
+25,Primary,Male,Unstable,Fair,Good,No,Hepatitis A,High
+26,Primary,Female,Stable,Fair,Fair,Yes,Schistosomiasis,Medium
+49,Tertiary,Female,Unstable,Fair,Poor,Yes,Hepatitis E,Low
+68,Secondary,Female,Unstable,Fair,Fair,Yes,Malaria,Medium
+53,Secondary,Male,Unstable,Good,Good,Yes,Dengue Fever,Low
+32,Primary,Female,Stable,Fair,Good,No,Malaria,Medium
+19,Not Applicable,Female,Unstable,Poor,Poor,No,Dengue Fever,High
+48,Secondary,Female,Stable,Poor,Poor,Yes,Diarrhoea,Medium
+57,Primary,Female,Stable,Poor,Fair,No,Dengue Fever,High
+65,Secondary,Male,Stable,Fair,Poor,Yes,Hepatitis A,High
+62,Not Applicable,Female,Unstable,Fair,Good,No,Plague,Medium
+67,Tertiary,Female,Stable,Poor,Poor,Yes,Hepatitis A,High
+39,Not Applicable,Female,Unstable,Fair,Fair,Yes,Plague,Medium
+67,Not Applicable,Male,Stable,Fair,Fair,Yes,Hepatitis A,Medium
+54,Not Applicable,Male,Unstable,Poor,Poor,No,Dengue Fever,High
+71,Tertiary,Male,Unstable,Poor,Good,No,Diarrhoea,High
+41,Not Applicable,Female,Stable,Poor,Poor,No,Schistosomiasis,High
+42,Tertiary,Female,Stable,Poor,Poor,No,Hepatitis E,High
+48,Not Applicable,Male,Unstable,Fair,Good,Yes,Bilharzia,Low
+47,Tertiary,Female,Stable,Good,Good,Yes,Plague,Medium
+66,Primary,Male,Unstable,Poor,Poor,No,Typhoid,High
+30,Tertiary,Female,Stable,Good,Fair,No,Bilharzia,Medium
+37,Tertiary,Female,Stable,Good,Fair,Yes,Schistosomiasis,High
+74,Not Applicable,Male,Stable,Good,Good,Yes,No Disease Detected,Low
+20,Tertiary,Male,Stable,Poor,Poor,Yes,Diarrhoea,High
+23,Not Applicable,Female,Stable,Fair,Fair,Yes,Typhoid,Low
+71,Tertiary,Female,Stable,Good,Poor,No,Malaria,Medium
+50,Not Applicable,Female,Unstable,Fair,Good,No,Hepatitis E,Low
+64,Secondary,Female,Stable,Fair,Good,No,Bilharzia,Medium
+77,Primary,Female,Unstable,Good,Fair,Yes,Malaria,Low
+27,Not Applicable,Female,Stable,Fair,Poor,Yes,Malaria,Low
+50,Primary,Female,Stable,Fair,Good,Yes,No Disease Detected,Low
+56,Secondary,Male,Unstable,Poor,Poor,Yes,Typhoid,High
+71,Secondary,Male,Stable,Good,Fair,No,Malaria,Medium
+29,Not Applicable,Male,Stable,Poor,Poor,Yes,Schistosomiasis,High
+66,Primary,Female,Unstable,Good,Good,No,Hepatitis E,Low
+47,Not Applicable,Female,Stable,Poor,Good,No,Schistosomiasis,Medium
+41,Secondary,Male,Stable,Good,Fair,Yes,Malaria,Low
+57,Tertiary,Female,Stable,Fair,Fair,Yes,Diarrhoea,Medium
+33,Primary,Male,Stable,Fair,Poor,No,Diarrhoea,High
+23,Primary,Male,Unstable,Good,Poor,No,Diarrhoea,High
+20,Secondary,Male,Stable,Good,Fair,No,Typhoid,Medium
+39,Primary,Female,Stable,Poor,Fair,Yes,Typhoid,Medium
+18,Not Applicable,Male,Unstable,Good,Good,Yes,No Disease Detected,Low
+64,Tertiary,Female,Stable,Poor,Good,Yes,No Disease Detected,Low
+68,Primary,Female,Stable,Fair,Fair,Yes,Dengue Fever,Medium
+19,Tertiary,Male,Unstable,Poor,Fair,Yes,Malaria,Medium
+30,Secondary,Male,Unstable,Fair,Fair,Yes,Typhoid,Medium
+29,Tertiary,Male,Unstable,Poor,Good,No,Plague,Low
+18,Primary,Female,Unstable,Poor,Fair,No,Plague,Low
+76,Not Applicable,Male,Unstable,Poor,Good,Yes,Hepatitis E,Medium
+77,Not Applicable,Male,Unstable,Fair,Good,Yes,Plague,Low
+80,Primary,Female,Stable,Good,Fair,Yes,Malaria,Low
+67,Not Applicable,Female,Unstable,Fair,Good,Yes,Schistosomiasis,Medium
+52,Primary,Male,Unstable,Good,Good,No,Hepatitis E,Low
+46,Tertiary,Female,Stable,Fair,Poor,Yes,Bilharzia,Medium
+22,Not Applicable,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+76,Primary,Male,Unstable,Fair,Good,No,Typhoid,Low
+76,Primary,Male,Unstable,Poor,Fair,Yes,Dengue Fever,Medium
+39,Primary,Male,Stable,Poor,Poor,Yes,Typhoid,Medium
+34,Tertiary,Male,Unstable,Good,Good,Yes,No Disease Detected,Low
+45,Secondary,Male,Stable,Poor,Poor,No,Malaria,Low
+58,Not Applicable,Male,Unstable,Good,Good,Yes,Plague,Medium
+52,Secondary,Female,Unstable,Fair,Poor,No,Malaria,Low
+31,Secondary,Female,Stable,Poor,Good,No,Bilharzia,Medium
+32,Tertiary,Female,Stable,Fair,Good,No,Hepatitis E,Medium
+78,Tertiary,Female,Stable,Fair,Good,No,Schistosomiasis,Medium
+38,Tertiary,Male,Unstable,Good,Good,No,Bilharzia,Medium
+30,Tertiary,Male,Stable,Fair,Good,Yes,No Disease Detected,Low
+65,Primary,Male,Unstable,Fair,Good,Yes,Hepatitis A,Medium
+38,Tertiary,Female,Unstable,Poor,Fair,No,Hepatitis A,High
+49,Primary,Male,Unstable,Poor,Fair,No,Schistosomiasis,High
+48,Not Applicable,Male,Stable,Good,Poor,No,Plague,Low
+37,Secondary,Male,Stable,Poor,Fair,Yes,Hepatitis A,Medium
+64,Tertiary,Female,Unstable,Poor,Fair,Yes,Dengue Fever,Medium
+64,Tertiary,Female,Unstable,Fair,Good,Yes,No Disease Detected,Low
+60,Primary,Male,Unstable,Poor,Poor,Yes,Plague,High
+20,Primary,Female,Unstable,Good,Fair,No,Bilharzia,Medium
+46,Not Applicable,Female,Stable,Fair,Poor,No,Plague,Medium
+20,Secondary,Female,Stable,Poor,Fair,Yes,Plague,Low
+73,Secondary,Male,Unstable,Fair,Fair,No,Malaria,Low
+58,Not Applicable,Female,Unstable,Poor,Fair,Yes,Hepatitis A,Medium
+69,Secondary,Female,Stable,Good,Poor,Yes,Typhoid,Medium
+45,Tertiary,Male,Unstable,Poor,Good,No,Typhoid,High
+49,Not Applicable,Male,Unstable,Fair,Good,Yes,Hepatitis A,High
+80,Secondary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+44,Secondary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+75,Secondary,Female,Unstable,Fair,Fair,No,Dengue Fever,Medium
+57,Secondary,Female,Stable,Good,Good,Yes,Dengue Fever,Medium
+21,Secondary,Male,Unstable,Poor,Fair,Yes,Typhoid,High
+58,Not Applicable,Male,Stable,Poor,Good,Yes,Plague,Medium
+61,Not Applicable,Female,Unstable,Fair,Poor,Yes,Malaria,Low
+33,Secondary,Male,Stable,Good,Poor,Yes,Typhoid,Low
+19,Secondary,Male,Unstable,Poor,Poor,No,Bilharzia,High
+73,Secondary,Female,Stable,Poor,Good,No,Hepatitis E,High
+22,Primary,Female,Unstable,Poor,Fair,No,Plague,Medium
+62,Primary,Male,Unstable,Fair,Fair,Yes,Typhoid,Low
+34,Primary,Male,Unstable,Poor,Good,Yes,Hepatitis A,Medium
+53,Tertiary,Male,Unstable,Poor,Good,No,Diarrhoea,High
+78,Secondary,Male,Unstable,Fair,Good,No,Plague,Medium
+70,Primary,Female,Stable,Fair,Good,No,Malaria,Medium
+53,Tertiary,Female,Unstable,Poor,Fair,No,Bilharzia,High
+20,Primary,Male,Unstable,Poor,Poor,No,Malaria,High
+34,Primary,Male,Stable,Fair,Good,No,Schistosomiasis,Medium
+62,Tertiary,Male,Stable,Good,Good,Yes,Hepatitis E,Low
+53,Tertiary,Female,Unstable,Good,Fair,Yes,Hepatitis A,High
+46,Primary,Female,Unstable,Good,Poor,Yes,Hepatitis A,High
+52,Tertiary,Male,Stable,Good,Good,No,Hepatitis A,High
+42,Tertiary,Female,Stable,Good,Fair,No,Schistosomiasis,High
+78,Not Applicable,Male,Stable,Poor,Poor,Yes,Typhoid,Medium
+41,Tertiary,Female,Stable,Good,Fair,No,Hepatitis E,Low
+43,Secondary,Female,Unstable,Good,Good,No,Malaria,Low
+74,Tertiary,Male,Unstable,Poor,Poor,No,Malaria,High
+77,Primary,Male,Unstable,Fair,Poor,No,Hepatitis E,Low
+70,Primary,Male,Unstable,Poor,Good,No,Plague,Medium
+31,Not Applicable,Male,Stable,Poor,Good,Yes,Schistosomiasis,High
+66,Secondary,Female,Stable,Poor,Poor,No,Diarrhoea,Medium
+25,Primary,Female,Stable,Good,Good,Yes,Plague,Medium
+33,Not Applicable,Male,Stable,Good,Fair,No,Typhoid,Medium
+20,Primary,Female,Stable,Fair,Fair,Yes,Bilharzia,Low
+42,Tertiary,Female,Stable,Poor,Poor,No,Malaria,Low
+57,Secondary,Male,Unstable,Good,Good,Yes,No Disease Detected,Low
+52,Tertiary,Male,Unstable,Fair,Poor,No,Hepatitis E,Low
+50,Primary,Female,Unstable,Good,Fair,No,Diarrhoea,Medium
+68,Tertiary,Male,Stable,Good,Fair,No,Hepatitis A,Medium
+41,Tertiary,Female,Stable,Good,Poor,No,Dengue Fever,Medium
+54,Tertiary,Male,Stable,Fair,Poor,No,Malaria,Low
+79,Tertiary,Female,Stable,Poor,Fair,Yes,Malaria,Medium
+27,Primary,Female,Stable,Fair,Good,No,Plague,Low
+24,Tertiary,Female,Stable,Poor,Fair,No,Hepatitis E,High
+53,Secondary,Male,Stable,Fair,Poor,Yes,Malaria,Low
+52,Secondary,Female,Stable,Poor,Fair,No,Hepatitis E,High
+52,Secondary,Male,Unstable,Fair,Poor,Yes,Plague,High
+25,Not Applicable,Male,Unstable,Good,Fair,Yes,Plague,Low
+63,Primary,Female,Stable,Good,Fair,No,Malaria,Low
+25,Not Applicable,Male,Unstable,Fair,Fair,Yes,Hepatitis E,Medium
+20,Tertiary,Female,Stable,Good,Good,No,Hepatitis E,Low
+32,Primary,Male,Unstable,Fair,Fair,Yes,Bilharzia,Medium
+61,Tertiary,Male,Unstable,Poor,Poor,Yes,Dengue Fever,Medium
+50,Not Applicable,Female,Stable,Poor,Poor,Yes,Plague,Low
+50,Tertiary,Female,Stable,Fair,Poor,No,Typhoid,Low
+21,Primary,Female,Stable,Poor,Poor,No,Plague,Low
+78,Not Applicable,Male,Stable,Poor,Good,No,Hepatitis E,High
+45,Not Applicable,Male,Unstable,Poor,Fair,No,Malaria,High
+19,Not Applicable,Male,Stable,Poor,Good,No,Plague,Low
+18,Secondary,Female,Stable,Good,Good,No,Typhoid,Low
+71,Primary,Male,Unstable,Poor,Poor,No,Typhoid,High
+69,Tertiary,Female,Stable,Fair,Poor,Yes,Hepatitis A,High
+45,Primary,Male,Stable,Poor,Poor,Yes,Hepatitis E,Medium
+51,Not Applicable,Male,Unstable,Poor,Fair,No,Typhoid,High
+56,Not Applicable,Male,Stable,Poor,Fair,Yes,Hepatitis A,Medium
+40,Not Applicable,Male,Unstable,Good,Good,No,Schistosomiasis,High
+52,Secondary,Male,Unstable,Good,Poor,No,Hepatitis A,High
+71,Not Applicable,Male,Stable,Fair,Poor,No,Schistosomiasis,Medium
+75,Secondary,Female,Unstable,Fair,Poor,Yes,Bilharzia,Medium
+39,Tertiary,Female,Stable,Fair,Poor,No,Malaria,Medium
+59,Primary,Female,Unstable,Good,Fair,Yes,Hepatitis A,High
+64,Not Applicable,Female,Unstable,Poor,Good,No,Malaria,High
+43,Secondary,Female,Unstable,Good,Poor,No,Typhoid,Low
+51,Primary,Female,Unstable,Fair,Good,Yes,No Disease Detected,Low
+66,Not Applicable,Female,Stable,Fair,Good,No,Plague,Medium
+73,Tertiary,Female,Stable,Poor,Good,Yes,Hepatitis E,Medium
+19,Tertiary,Female,Stable,Good,Fair,No,Hepatitis E,Low
+21,Tertiary,Female,Unstable,Poor,Fair,Yes,Diarrhoea,High
+75,Not Applicable,Male,Unstable,Fair,Poor,No,Bilharzia,Low
+68,Secondary,Male,Stable,Poor,Poor,No,Malaria,Medium
+34,Tertiary,Male,Stable,Poor,Fair,Yes,Dengue Fever,Medium
+79,Tertiary,Female,Stable,Poor,Good,No,Hepatitis A,Medium
+51,Tertiary,Male,Unstable,Fair,Good,Yes,No Disease Detected,Low
+31,Secondary,Male,Stable,Good,Good,Yes,Hepatitis A,Medium
+80,Secondary,Male,Unstable,Poor,Fair,Yes,Bilharzia,Medium
+76,Secondary,Male,Unstable,Fair,Good,Yes,Plague,Medium
+74,Secondary,Female,Unstable,Poor,Poor,No,Bilharzia,High
+27,Secondary,Male,Unstable,Fair,Poor,Yes,Typhoid,Low
+20,Primary,Male,Stable,Poor,Poor,No,Plague,Medium
+60,Secondary,Male,Stable,Good,Poor,No,Hepatitis E,Low
+24,Not Applicable,Female,Stable,Poor,Good,Yes,Malaria,Medium
+47,Tertiary,Male,Unstable,Good,Good,Yes,Malaria,Medium
+23,Primary,Female,Stable,Good,Good,Yes,Hepatitis A,Medium
+46,Primary,Male,Unstable,Fair,Poor,Yes,Plague,High
+22,Not Applicable,Female,Unstable,Fair,Poor,Yes,Hepatitis E,Low
+56,Not Applicable,Female,Unstable,Good,Fair,Yes,Dengue Fever,Low
+58,Primary,Male,Unstable,Fair,Good,Yes,No Disease Detected,Low
+48,Tertiary,Female,Unstable,Fair,Poor,Yes,Typhoid,Low
+71,Not Applicable,Male,Unstable,Good,Fair,Yes,Schistosomiasis,High
+66,Primary,Female,Stable,Fair,Good,Yes,Schistosomiasis,Medium
+74,Primary,Female,Unstable,Fair,Good,Yes,Bilharzia,Medium
+58,Not Applicable,Male,Unstable,Good,Good,Yes,Dengue Fever,Medium
+35,Tertiary,Female,Stable,Poor,Poor,Yes,Hepatitis A,High
+40,Tertiary,Female,Stable,Poor,Fair,No,Bilharzia,Medium
+31,Secondary,Female,Unstable,Good,Poor,No,Typhoid,Low
+56,Tertiary,Male,Stable,Good,Fair,Yes,Hepatitis A,High
+65,Secondary,Female,Unstable,Good,Fair,No,Typhoid,Low
+23,Primary,Male,Unstable,Fair,Good,Yes,Malaria,Low
+70,Tertiary,Female,Unstable,Good,Good,Yes,No Disease Detected,Low
+28,Tertiary,Male,Stable,Poor,Good,No,Dengue Fever,Medium
+61,Secondary,Female,Stable,Fair,Fair,No,Schistosomiasis,Medium
+34,Secondary,Female,Stable,Fair,Fair,No,Plague,Medium
+63,Primary,Male,Unstable,Fair,Good,Yes,No Disease Detected,Low
+69,Primary,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+47,Primary,Male,Stable,Poor,Good,Yes,No Disease Detected,Low
+52,Primary,Male,Unstable,Poor,Good,No,Plague,Medium
+37,Not Applicable,Male,Unstable,Poor,Poor,Yes,Diarrhoea,High
+62,Primary,Female,Unstable,Fair,Poor,Yes,Dengue Fever,Low
+78,Not Applicable,Female,Stable,Fair,Poor,No,Dengue Fever,Low
+52,Not Applicable,Female,Stable,Poor,Poor,Yes,Plague,Low
+43,Not Applicable,Male,Unstable,Poor,Poor,No,Hepatitis A,High
+22,Primary,Female,Stable,Poor,Fair,Yes,Schistosomiasis,Medium
+20,Secondary,Male,Stable,Good,Good,Yes,Typhoid,Medium
+40,Secondary,Male,Stable,Fair,Fair,No,Diarrhoea,High
+31,Primary,Male,Stable,Poor,Poor,No,Schistosomiasis,High
+36,Tertiary,Male,Unstable,Good,Good,No,Bilharzia,Medium
+39,Not Applicable,Male,Unstable,Poor,Fair,Yes,Typhoid,High
+50,Not Applicable,Male,Unstable,Poor,Poor,No,Diarrhoea,Medium
+67,Tertiary,Male,Unstable,Good,Fair,Yes,Malaria,Medium
+28,Primary,Female,Stable,Poor,Good,Yes,No Disease Detected,Low
+62,Not Applicable,Male,Stable,Poor,Poor,Yes,Diarrhoea,High
+34,Secondary,Male,Unstable,Fair,Poor,Yes,Diarrhoea,Medium
+51,Primary,Female,Stable,Poor,Good,Yes,Typhoid,Medium
+48,Secondary,Female,Stable,Fair,Fair,Yes,Plague,Medium
+67,Secondary,Male,Unstable,Fair,Good,Yes,Bilharzia,Low
+56,Secondary,Male,Stable,Fair,Good,Yes,Bilharzia,Medium
+33,Primary,Female,Stable,Good,Good,No,Schistosomiasis,High
+37,Not Applicable,Male,Stable,Poor,Fair,No,Plague,Medium
+40,Tertiary,Male,Stable,Poor,Good,Yes,No Disease Detected,Low
+51,Secondary,Female,Stable,Fair,Poor,Yes,Hepatitis E,Medium
+67,Tertiary,Female,Unstable,Poor,Good,Yes,No Disease Detected,Low
+55,Secondary,Male,Unstable,Fair,Poor,Yes,Diarrhoea,Medium
+40,Tertiary,Male,Unstable,Poor,Fair,Yes,Plague,Medium
+72,Secondary,Male,Stable,Poor,Fair,Yes,Hepatitis A,High
+25,Secondary,Female,Stable,Good,Fair,Yes,Diarrhoea,High
+53,Primary,Male,Stable,Poor,Good,No,Bilharzia,High
+65,Primary,Male,Stable,Poor,Fair,Yes,Dengue Fever,Low
+61,Tertiary,Female,Stable,Fair,Fair,Yes,Schistosomiasis,Medium
+39,Tertiary,Male,Unstable,Poor,Good,Yes,No Disease Detected,Low
+42,Secondary,Female,Stable,Good,Poor,No,Malaria,Medium
+46,Not Applicable,Female,Stable,Fair,Poor,Yes,Plague,Low
+40,Not Applicable,Male,Stable,Fair,Poor,No,Malaria,Low
+29,Secondary,Female,Unstable,Poor,Good,Yes,No Disease Detected,Low
+56,Primary,Female,Unstable,Good,Good,Yes,Malaria,Low
+28,Secondary,Female,Stable,Fair,Poor,Yes,Schistosomiasis,High
+21,Secondary,Male,Unstable,Poor,Good,Yes,No Disease Detected,Low
+77,Secondary,Female,Stable,Poor,Good,Yes,Hepatitis A,Medium
+60,Not Applicable,Female,Unstable,Good,Fair,Yes,Malaria,Medium
+29,Tertiary,Male,Stable,Fair,Fair,No,Dengue Fever,Low
+37,Tertiary,Male,Unstable,Fair,Fair,No,Schistosomiasis,High
+73,Not Applicable,Female,Unstable,Fair,Fair,No,Malaria,Low
+48,Tertiary,Female,Unstable,Fair,Good,Yes,Diarrhoea,Medium
+32,Secondary,Male,Unstable,Fair,Good,No,Typhoid,Medium
+41,Primary,Female,Stable,Good,Good,No,Bilharzia,Low
+41,Tertiary,Male,Unstable,Fair,Good,No,Plague,Medium
+44,Secondary,Female,Unstable,Poor,Good,No,Bilharzia,High
+41,Tertiary,Male,Unstable,Poor,Fair,Yes,Diarrhoea,High
+24,Tertiary,Male,Stable,Poor,Fair,Yes,Bilharzia,Medium
+72,Primary,Female,Unstable,Fair,Poor,No,Typhoid,Medium
+32,Tertiary,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+26,Tertiary,Male,Stable,Poor,Fair,No,Bilharzia,Medium
+53,Secondary,Male,Unstable,Fair,Poor,No,Hepatitis E,Low
+59,Primary,Male,Stable,Poor,Good,Yes,No Disease Detected,Low
+70,Tertiary,Female,Unstable,Good,Poor,No,Diarrhoea,Medium
+30,Tertiary,Male,Unstable,Good,Good,Yes,Schistosomiasis,Medium
+49,Secondary,Female,Stable,Poor,Fair,Yes,Bilharzia,Medium
+54,Not Applicable,Female,Stable,Good,Good,Yes,Dengue Fever,Low
+73,Secondary,Male,Stable,Good,Good,No,Plague,Medium
+36,Not Applicable,Male,Unstable,Poor,Good,No,Bilharzia,High
+54,Tertiary,Male,Stable,Good,Good,No,Dengue Fever,Low
+46,Secondary,Female,Unstable,Good,Good,No,Bilharzia,Medium
+26,Primary,Female,Unstable,Good,Poor,No,Hepatitis E,Medium
+74,Tertiary,Male,Stable,Good,Poor,No,Bilharzia,Low
+49,Not Applicable,Female,Stable,Fair,Good,No,Plague,Low
+46,Secondary,Male,Stable,Fair,Poor,Yes,Hepatitis A,Medium
+45,Secondary,Female,Stable,Good,Fair,No,Plague,Low
+74,Primary,Male,Unstable,Good,Fair,No,Bilharzia,Medium
+29,Primary,Female,Stable,Good,Good,Yes,No Disease Detected,Low
+61,Tertiary,Female,Unstable,Poor,Good,Yes,No Disease Detected,Low
+46,Tertiary,Female,Unstable,Poor,Poor,No,Schistosomiasis,High
+26,Not Applicable,Female,Unstable,Good,Fair,No,Malaria,Medium

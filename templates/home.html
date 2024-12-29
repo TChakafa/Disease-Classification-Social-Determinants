@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="card text-center">
+            <div class="card-header">
+                <h4>Welcome to the Disease Classification App</h4>
+            </div>
+            <div class="card-body">
+                <p class="card-text">This application allows you to classify diseases based on various factors. Please log in or register to get started!</p>
+                <a href="{{ url_for('login') }}" class="btn btn-primary">Login</a>
+                <a href="{{ url_for('register') }}" class="btn btn-secondary">Register</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Disease Classification{% endblock %}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <style>
+        .top-toggle-line {
+            background-color: rgb(173, 197, 183);
+            height: 20px;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        .main-content {
+            padding-top: 10px;
+        }
+        #sidebar {
+            background-color: #e0f7fa;
+        }
+        .sidebar-header {
+            padding: 15px;
+        }
+        .nav-item {
+            margin: 10px 0;
+        }
+        .nav-link {
+            color: #007BFF;
+        }
+        .nav-link:hover {
+            color: #0056b3;
+        }
+        footer {
+            background-color: #f8f9fa;
+            padding: 20px 0;
+            text-align: center;
+        }
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="top-toggle-line"></div>
+    <div class="container-fluid main-content">
+        <div class="row">
+            <nav id="sidebar" class="col-md-2 sidebar">
+                <div class="sidebar-header d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center">
+                        <button class="btn btn-link" id="toggleSidebar">
+                            <i class="fas fa-bars"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="sidebar-sticky" id="sidebarContent">
+                    <ul class="nav flex-column">
+                        {% if current_user.is_authenticated %}
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('dashboard') }}">
+                                    <i class="fas fa-home"></i> Dashboard
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('classify') }}">
+                                    <i class="fas fa-user-md"></i> Classify Disease
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('analysis') }}">
+                                    <i class="fas fa-chart-line"></i> View Analysis
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('logout') }}">
+                                    <i class="fas fa-sign-out-alt"></i> Logout
+                                </a>
+                            </li>
+                        {% else %}
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('login') }}">
+                                    <i class="fas fa-sign-in-alt"></i> Login
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url_for('register') }}">
+                                    <i class="fas fa-user-plus"></i> Register
+                                </a>
+                            </li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </nav>
+
+            <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h1 class="h2">Dashboard</h1>
+                    {% if current_user.is_authenticated %}
+                    <div class="profile-area">
+                        <span class="mr-2">{{ current_user.username }}</span>
+                        <button class="btn btn-link" id="profileButton">
+                            <i class="fas fa-user-circle fa-lg"></i>
+                        </button>
+                    </div>
+                    {% endif %}
+                </div>
+                {% block content %}
+                {% endblock %}
+            </main>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>Follow SSI on:</p>
+            <a href="https://github.com/SSI Technologies" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+            <a href="https://www.facebook.com/XPARTY" target="_blank"><i class="fab fa-facebook"></i> Facebook</a> |
+            <a href="https://www.linkedin.com/in/tynos-chakafa-03a329295" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
+            <a href="https://wa.me/0771537650" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+            
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#toggleSidebar').click(function() {
+                $('#sidebar').toggleClass('collapsed');
+                $('#sidebarContent').toggle();
+            });
+        });
+    </script>
+</body>
+</html>

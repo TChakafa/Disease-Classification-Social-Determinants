@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Updated sidebar styles */
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    height: 100%;
+    padding: 20px 0;
+    background-color: #5e55b4; /* Light blue color */
+    transition: width 0.3s;
+    width: 250px; /* Increased width */
+}
+
+.sidebar.collapsed {
+    width: 80px; /* Adjust width when collapsed */
+}
+
+.sidebar-header {
+    text-align: center;
+}
+
+.sidebar-sticky {
+    position: relative;
+    top: 0;
+    height: calc(100% - 48px);
+    padding-top: .5rem;
+}
+
+.card {
+    margin: 10px 0;
+}
+
+.card-header {
+    background-color: #66aebb;
+    color: white;
+}
+
+.card-title {
+    font-size: 1.5rem;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.btn {
+    margin: 5px;
+}

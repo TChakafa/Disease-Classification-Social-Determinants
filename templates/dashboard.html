@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Disease Classification{% endblock %}
+{% block content %}
+<div class="notification-section border" style="background-color: #fff3cd; border: 1px solid #ffeeba; padding: 15px; border-radius: 5px;">
+    <h5 class="mb-3">Notifications</h5>
+    <div id="notification" class="mt-3"></div>
+</div>
+
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <div class="card text-center" style="background-color:rgb(190, 181, 165);"> <!-- Pale Amber -->
+            <div class="card-body">
+                <i class="fas fa-chart-line fa-3x mb-2"></i>
+                <h5 class="card-title">Disease Statistics</h5>
+                <p class="card-text">View the statistics of disease classifications.</p>
+                <a href="{{ url_for('analysis') }}" class="btn btn-primary">View Analysis</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-center" style="background-color:rgb(126, 223, 149);"> <!-- Pale Green -->
+            <div class="card-body">
+                <i class="fas fa-user-md fa-3x mb-2"></i>
+                <h5 class="card-title">Classify Disease</h5>
+                <p class="card-text">Input your data for classification.</p>
+                <a href="{{ url_for('classify') }}" class="btn btn-primary">Classify</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Array of dynamic notifications
+    const notifications = [
+        "Zimbabwe is under risk of social disease. Always maintain good hygiene and vaccinated",
+        "Cholera and Malaria season is approaching. Get vaccinated and reduce the risk!",
+        "Stay hydrated and maintain a balanced diet to boost your immune system."
+    ];
+
+    let currentIndex = 0;
+
+    function updateNotification() {
+        document.getElementById('notification').innerText = notifications[currentIndex];
+        currentIndex = (currentIndex + 1) % notifications.length;
+    }
+
+    // Update the notification every 5 seconds
+    setInterval(updateNotification, 5000);
+    updateNotification(); // Initial call to set the first notification
+</script>
+{% endblock %}

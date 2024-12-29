@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Analysis{% endblock %}
+{% block content %}
+<div class="container mt-5">
+    <!-- Welcome Note Section -->
+    <div class="welcome-note border" style="background-color: #eae6fa; border: 2px solidrgb(90, 138, 209); padding: 15px; border-radius: 5px; margin-bottom: 20px;">
+        <h5 class="text-center" style="color:rgb(25, 11, 216);">Welcome to the Analysis Section!</h5>
+        <p class="text-center">Here, you can view various graphs that provide insights into disease classification and trends. Each graph represents different aspects of the data collected.</p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Variable Contributions to Disease Causation</h5>
+                </div>
+                <div class="card-body text-center">
+                    <img src="{{ url_for('static', filename='disease_contributions.png') }}" alt="Disease Contributions" class="img-fluid">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5>Classification Risk Levels</h5>
+                </div>
+                <div class="card-body text-center">
+                    <img src="{{ url_for('static', filename='risk_levels.png') }}" alt="Risk Levels" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Removed the correlation analysis section -->
+</div>
+{% endblock %}
